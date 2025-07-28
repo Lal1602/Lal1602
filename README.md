@@ -1,17 +1,17 @@
 ## Hi there 👋  
 ###### aowkaowkaw  
 
-I'm **Bilal**, currently a student at **PENS (D3 Teknik Informatika)** and aspiring to continue to **D4 Teknik Informatika**.  
-Previously, I graduated from **SMKN 10 Surabaya**, majored in **Software Engineering**, and actively participated in school projects like **InternSight**, a mobile app for internship monitoring.  
-I also had the honor to intern at **DPTSI ITS (Big Data Division)** for 6 months and secured **2nd place** in the **LKS Web Technologies District Level** 🥈  
+I'm **Bilal**, currently a student at **PENS (D3 Teknik Informatika)**, aspiring to continue to **D4 Teknik Informatika**.  
+Previously, I graduated from **SMKN 10 Surabaya**, majoring in **Software Engineering**, and actively contributed to school projects like **InternSight** — a mobile app for internship monitoring.  
+I also had the honor of interning at **DPTSI ITS (Big Data Division)** for 6 months and earned **2nd place** in the **LKS Web Technologies District Level** 🥈  
 
 ---
 
 ### 🧠 Currently Working On
-- 📱 React Native App with PHPMyAdmin backend
-- 📦 Minecraft Bedrock Edition addons (world_behavior_pack.json, resource_pack.json, manifest.json, etc.)
-- 🧠 UTBK prep for D4 continuation
-- 📃 Scientific article on *Women Entrepreneurs Collaboration*
+- 📱 A React Native app with PHPMyAdmin backend  
+- 📦 Minecraft Bedrock Edition addons (`world_behavior_pack.json`, `manifest.json`, etc.)  
+- 🧠 UTBK prep for D4 continuation  
+- 📃 Scientific article: *Women Entrepreneurs Collaboration*  
 
 ---
 
@@ -45,16 +45,16 @@ I also had the honor to intern at **DPTSI ITS (Big Data Division)** for 6 months
 Here’s a fun little game I made — **Tic Tac Toe in JS!**  
 Click to play and challenge yourself!  
 👇  
-[Play the Game](tictactoe-bilal.netlify.app)
+[Play the Game](https://tictactoe-bilal.netlify.app)
 
 ---
 
 ### 📫 Let's Connect!
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link) *(optional if available)*
-- 🐦 [Twitter](https://twitter.com/your-handle) *(optional if active)*
-- 📮 Email: your.email@example.com
+- 🌐 [LinkedIn](https://linkedin.com/in/your-link) <!-- Optional -->
+- 🐦 [Twitter](https://twitter.com/your-handle) <!-- Optional -->
+- 📮 Email: your.email@example.com <!-- Replace with actual email -->
 
 ---
 
 > _"Kalau dunia terlalu bising, bisik aja ke aku."_  
-> — Bilal
+> — Bilal  
