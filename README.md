@@ -152,9 +152,9 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/BagusDluffy/BagusDluffy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
