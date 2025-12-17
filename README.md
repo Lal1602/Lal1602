@@ -157,6 +157,8 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph.svg">
 </picture>
 
+<img width="1014" height="1117" alt="image" src="https://github.com/user-attachments/assets/6e0e735c-3590-434b-88e6-11a482e73b63" />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bilalsanayumajid&style=flat-square&color=blue" alt="Profile Views" />
 
