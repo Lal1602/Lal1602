@@ -1,11 +1,10 @@
-## 👋 Hi there, I'm Bilal Sanayu Majid
+## Bilal Sanayu Majid
 
-### 🌐 Web Developer Junior & 📱 Mobile Apps Developer Junior
+**Software Engineering Student @ PENS · Web & Mobile Developer**
 
-📍 **Lived in Surabaya, Indonesia**  
-🎓 **Software Engineering Student - PENS (Politeknik Elektronika Negeri Surabaya)**
+📍 Surabaya, Indonesia &nbsp;|&nbsp; 🎓 D3 Software Engineering — PENS
 
-I'm a passionate junior developer who loves crafting intuitive websites and mobile apps. I enjoy solving real-world problems through code and am always eager to explore new technologies. Currently pursuing my D3 degree in Software Engineering at PENS, where I actively contribute to school projects and real-life applications.
+Building web apps and mobile apps. Focused on PHP/Laravel for backend and React/React Native for frontend. Currently learning full-stack patterns while contributing to real projects at campus.
 
 ---
 
@@ -29,7 +28,7 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
 </p>
 
 #### Tools & Others
@@ -42,11 +41,9 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
 </p>
 
@@ -66,52 +63,42 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 
 ### 🌱 Currently Learning
 
-- **Frontend Frameworks**: Next.js, Svelte
-- **Backend Technologies**: FastAPI, GraphQL
-- **Cloud Platforms**: Firebase, Google Cloud Platform
-- **Mobile Development**: React Native
-- **UI/UX Design**: Figma, Adobe XD
-- **Extras**: Git CLI, REST API, SQL best practices
+- **Next.js** (App Router, SSR/SSG patterns)
+- **FastAPI** — exploring Python-based backend for REST APIs
+- **GraphQL** — learning query-based APIs as an alternative to REST
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **Software Engineering** - PENS (2025 - Present)  
-  Studying at one of the best polytechnic universities in Indonesia, focusing on software development methodologies, clean coding practices, and solving real-world problems through technology.
-  - 📘 **Relevant Courses**:
-    - Web Development
-    - Mobile App Development
-    - Database Design
-    - Software Engineering
-    - Data Structures & Algorithms
-  - 👨‍💻 Actively involved in collaborative class projects and mini-app builds that solve practical challenges.
----
-- 🧑‍🏫 **Coding Bootcamp** - Timedoor Academy (2020 - 2024)  
-  Spent 4 incredible years learning programming through structured courses and guided mentorship:  
-  - 🌐 Started with **Web Development** using HTML, CSS, and JavaScript  
-  - 🎮 Transitioned into **Game Development** using the Phaser game framework and core JS  
-  - 🤖 Advanced to **Android App Development** using React and React Native  
-  - ✨ Built dozens of projects — from simple 2D browser games to mobile apps with Firebase integration  
-  - 🚀 Learned to write maintainable code, manage GitHub repos, and build UI/UX with real users in mind
+- 🎓 **D3 Software Engineering** — PENS *(2025 – Present)*  
+  Focus: web dev, mobile dev, database design, and software engineering practices. Actively working on class projects that ship to real users.
+
+- 🧑‍🏫 **Coding Bootcamp** — Timedoor Academy *(2020 – 2024)*  
+  4 years of structured programming courses:
+  - Web: HTML, CSS, JavaScript
+  - Game Dev: Phaser.js
+  - Mobile: React & React Native with Firebase
+  - Dozens of shipped projects from browser games to mobile apps
+
 ---
 
 ### 💼 Experience
 
-- 💻 **Internship**: Big Data Division @ DPTSI - Institut Teknologi Surabaya (6 months)
-- 🏆 **2nd Runner-Up**: LKS Web Technologies (District Level)
-- 🥉 **3rd Place**: Bee Coding Academy Internal Competition
-- 📱 **Developer**: InternSight – A monitoring mobile app for student internships
+- 💻 **Intern** — Big Data Division, DPTSI @ Institut Teknologi Surabaya *(6 months)*  
+  Worked on data processing and internal tooling in the Big Data division.
+- 🏆 **2nd Runner-Up** — LKS Web Technologies (District Level)
+- 🥉 **3rd Place** — Bee Coding Academy Internal Competition
+- 📱 **Developer** — InternSight, a mobile app for monitoring student internship progress
 
 ---
 
 ### 🚧 Currently Working On
 
-- A digital class attendance system for teachers on duty (Web-Based App)
-- Real-time Firestore integration for note-taking mobile apps
-- UI/UX polishing with Figma & TailwindCSS
-- Enhancing Minecraft Bedrock server with multiple addons and behavior packs
-- Collaboration dashboard for vendors, inventory, and storage (PHP/MySQL)
+- Digital class attendance system for teachers (Web-Based, PHP/MySQL)
+- Real-time Firestore integration for a note-taking mobile app
+- Collaboration dashboard for vendors, inventory, and storage
+- Minecraft Bedrock server with custom addons and behavior packs
 
 ---
 
@@ -136,22 +123,18 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 
 ### 🎯 What I'm Looking For
 
-- 🤝 Internship opportunities in web/mobile development
-- 👥 Collaborations with students and open-source communities
-- 📖 Learning new tech & frameworks
-- 👨‍🏫 Mentorship and guidance from experienced devs
-- 🚀 Building something impactful for Indonesia's tech future
+- Internship or freelance work in web/mobile development
+- Open-source collaborations and side projects worth building
+- Mentorship from devs who've shipped real things
 
 ---
 
-### 🤓 Fun Facts
+### 🤓 A Few Things About Me
 
-- 🎮 Big fan of strategy & sandbox games (yes, Minecraft modded world, I’m talking about you)
-- ☕ Kopi sachet is my loyal coding partner
-- 💭 Often stuck between debugging and deep thoughts
-- 🎵 Favorite coding playlist: sad indie songs
-- 🤖 Still mastering the art of not procrastinating
-- 🧠 I may be junior, but my dreams go full-stack
+- 🎮 Minecraft modded survival is my decompression method
+- ☕ Kopi sachet while debugging — non-negotiable
+- 🎵 Sad indie playlist on loop while coding
+- 💭 Equally passionate about building things and breaking them to understand why
 
 ---
 
@@ -162,6 +145,8 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 </picture>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bilalsanayumajid&style=flat-square
+
   <img src="https://komarev.com/ghpvc/?username=bilalsanayumajid&style=flat-square&color=blue" alt="Profile Views" />
 
 _Thanks for visiting! Let's connect and create something meaningful together ✨_
