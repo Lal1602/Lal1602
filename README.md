@@ -54,11 +54,11 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Lal1602&theme=dark&hide_border=true)
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Lal1602&theme=nightowl&border_radius=8&size=compact)
-
-![Top Languages](https://ghstats.dev/api/langs?username=Lal1602&theme=nightowl)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lal1602&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://ghstats.dev/api/card?username=Lal1602&theme=nightowl&border_radius=8&size=compact" alt="GitHub Stats Card" height="165" />
+  <img src="https://ghstats.dev/api/langs?username=Lal1602&theme=nightowl" alt="Top Languages" height="165" />
+</div>
 
 ---
 
