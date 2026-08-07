@@ -145,7 +145,7 @@ Building web apps and mobile apps. Focused on PHP/Laravel for backend and React/
 </picture>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=Lal1602&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=Lal1602&style=flat-square&color=blue&abbreviated=true" alt="Profile Views" />
 
 _Thanks for visiting! Let's connect and create something meaningful together ✨_
 
