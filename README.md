@@ -54,9 +54,11 @@ I'm a passionate junior developer who loves crafting intuitive websites and mobi
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lal1602&show_icons=true&theme=radical)
+![GitHub Stats](https://streak-stats.demolab.com?user=Lal1602&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lal1602&layout=compact&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Lal1602&theme=nightowl&border_radius=8&size=compact)
+
+![Top Languages](https://ghstats.dev/api/langs?username=Lal1602&theme=nightowl)
 
 ---
 
