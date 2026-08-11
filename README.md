@@ -60,7 +60,7 @@ Building web apps and mobile apps. Focused on PHP/Laravel for backend and React/
   </a>
   <br/><br/>
   <a href="https://github.com/Lal1602">
-    <img src="https://https://streak-stats.demolab.com?user=Lal1602&theme=dark" alt="GitHub Streak" />
+    <img src="https://https://streak-stats.demolab.com?user=DenverCode1&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
