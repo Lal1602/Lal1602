@@ -52,16 +52,9 @@ Building web apps and mobile apps. Focused on PHP/Laravel for backend and React/
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Lal1602">
     <img src="https://ghstats.dev/api/card?username=Lal1602&theme=nightowl&border_radius=8&size=compact" alt="GitHub Stats Card" />
-  </a>
-  <a href="https://github.com/Lal1602">
     <img src="https://ghstats.dev/api/langs?username=Lal1602&theme=nightowl&layout=compact&border_radius=8" alt="Top Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Lal1602">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lal1602&theme=nightowl" alt="GitHub Streak" />
-  </a>
 </div>
 
 ---
