@@ -70,7 +70,7 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Backend</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,python,c&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Frontend</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -86,7 +86,23 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Mobile</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,firebase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,flutter,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Creative</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=threejs,gsap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Vision / AI</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" />
     </td>
   </tr>
   <tr>
