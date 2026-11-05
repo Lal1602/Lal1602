@@ -60,37 +60,54 @@ available for: Internship · Freelance · Open Source Collaboration
 
 ### 🛠️ Tech Stack
 
-#### Web Development
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
-</p>
+<div align="center">
 
-#### Mobile Development
+<table>
+  <tr>
+    <td align="center" width="130">
+      <sub><b>Backend</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Frontend</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Mobile</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Learning</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,graphql&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Tooling</b></sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-</p>
-
-#### Tools & Others
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="30"/>
-</p>
+</div>
 
 ---
 
@@ -121,14 +138,6 @@ available for: Internship · Freelance · Open Source Collaboration
 | Class Attendance System | Digital attendance for teachers with real-time tracking | PHP · MySQL | 🚧 In Progress |
 | Vendor Dashboard | Collaboration dashboard for vendors, inventory & storage | PHP · MySQL | 🚧 In Progress |
 | Note-Taking App | Mobile note app with real-time Firestore sync | React Native · Firestore | 🚧 In Progress |
-
----
-
-### 🌱 Currently Learning
-
-- **Next.js** — App Router, SSR/SSG patterns
-- **FastAPI** — Python-based backend for REST APIs
-- **GraphQL** — query-based APIs as an alternative to REST
 
 ---
 
