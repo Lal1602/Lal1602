@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="55%">
 
 ```yaml
 name    : Bilal Sanayu Majid
@@ -50,8 +50,8 @@ available for: Internship · Freelance · Open Source Collaboration
 ```
 
 </td>
-<td valign="middle" width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding GIF" />
+<td valign="middle" width="45%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Coding GIF" />
 </td>
 </tr>
 </table>
@@ -98,13 +98,13 @@ available for: Internship · Freelance · Open Source Collaboration
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lal1602&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal1602&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lal1602&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal1602&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lal1602&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Lal1602&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
