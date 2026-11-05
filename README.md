@@ -122,20 +122,13 @@ available for: Internship · Freelance · Open Source Collaboration
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lal1602&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lal1602&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="170" alt="Top Languages" />
-
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lal1602&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lal1602&theme=tokyonight&column=7&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
