@@ -1,16 +1,49 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vlinejoin=false&width=500&lines=Hi%2C+I'm+Bilal+Sanayu+Majid+%F0%9F%91%8B;Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+React+Native;Building+things+that+ship+to+real+users" alt="Typing SVG" />
+  <!-- Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bilal%20Sanayu%20Majid&fontSize=50&fontColor=fff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
+
+</div>
+
+<div align="center">
+
+  <!-- Greeting typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&width=500&lines=Hi+there!+I'm+Bilal+%F0%9F%91%8B;Web+%26+Mobile+Developer;Laravel+%7C+React+%7C+React+Native;Building+things+that+ship+to+real+users" alt="Typing SVG" />
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/bilalsanayumajid">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
+    </a>
+    <a href="https://instagram.com/me.lals">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26"/>
+    </a>
+    <a href="mailto:bilalsanayumajid@email.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="26"/>
+    </a>
+    <a href="https://porto-bilal.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white" height="26"/>
+    </a>
+  </p>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Lal1602&style=flat-square&color=blue&base=1200&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-**Software Engineering Student @ PENS · Web & Mobile Developer**
+### 👨‍💻 About Me
 
-📍 Surabaya, Indonesia &nbsp;|&nbsp; 🎓 D3 Software Engineering — PENS
-
-Building web and mobile apps focused on PHP/Laravel for backend and React/React Native for frontend. Currently learning full-stack patterns while shipping real projects at campus. Open to internship and freelance opportunities in web/mobile development.
+```yaml
+name    : Bilal Sanayu Majid
+location: Surabaya, Indonesia
+education: D3 Software Engineering @ PENS
+role    : Web & Mobile Developer · Software Engineering Student
+focus   : PHP/Laravel (backend) · React/React Native (frontend)
+learning: Next.js · FastAPI · GraphQL
+available for: Internship · Freelance · Open Source Collaboration
+```
 
 ---
 
@@ -110,25 +143,6 @@ Building web and mobile apps focused on PHP/Laravel for backend and React/React 
 
 ---
 
-### 📫 Get in Touch
-
-<p align="left">
-  <a href="https://linkedin.com/in/bilalsanayumajid">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/me.lals">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:bilalsanayumajid@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://porto-bilal.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lal1602/lal1602/output/pacman-contribution-graph.svg">
@@ -136,5 +150,5 @@ Building web and mobile apps focused on PHP/Laravel for backend and React/React 
 </picture>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lal1602&style=flat-square&color=blue&base=1200&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
