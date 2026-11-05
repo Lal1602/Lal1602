@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bilal%20Sanayu%20Majid&fontSize=50&fontColor=fff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bilal%20Sanayu%20Majid&fontSize=50&fontColor=fff&fontAlignY=38&desc=Web%20%7C%20Mobile%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
