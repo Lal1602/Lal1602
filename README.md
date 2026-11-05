@@ -35,6 +35,10 @@
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ```yaml
 name    : Bilal Sanayu Majid
 location: Surabaya, Indonesia
@@ -44,6 +48,13 @@ focus   : PHP/Laravel (backend) · React/React Native (frontend)
 learning: Next.js · FastAPI · GraphQL
 available for: Internship · Freelance · Open Source Collaboration
 ```
+
+</td>
+<td valign="center" width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
+</td>
+</tr>
+</table>
 
 ---
 
