@@ -78,7 +78,7 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Frontend</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,supabase&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -110,7 +110,7 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Learning</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,graphql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=fastapi,graphql&theme=dark" />
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ available for: Internship · Freelance · Open Source Collaboration
       <sub><b>Tooling</b></sub>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,powershell&theme=dark" />
     </td>
   </tr>
 </table>
