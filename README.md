@@ -15,13 +15,13 @@
     <a href="https://linkedin.com/in/bilalsanayumajid">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
     </a>
-    <a href="https://instagram.com/me.lals">
+    <a href="https://instagram.com/chocolalsm">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26"/>
     </a>
     <a href="mailto:bilalsanayumajid@email.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="26"/>
     </a>
-    <a href="https://porto-bilal.netlify.app">
+    <a href="https://lalsm.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white" height="26"/>
     </a>
   </p>
